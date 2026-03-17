@@ -1,0 +1,12 @@
+---
+strategy: polling
+no_screen_padding: 'yes'
+dark_mode: 'no'
+static_data: ''
+polling_verb: get
+polling_url: https://tagrugby.spawtz.com/External/Fixtures/Feed.aspx?Type=Fixtures&VenueId=3&LeagueId=271&SeasonId=9&DivisionId=147
+polling_headers: ''
+polling_body: '{"Fixture"}'
+id: 257833
+name: Distillers Tag
+refresh_interval: 1440
