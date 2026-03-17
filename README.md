@@ -1,2 +1,2 @@
 # spawtz-trmnl-plugin
-Tag Rugby Spawtz Plugin for trmnl.co
+Tag Rugby Spawtz Plugin for trmnl.com
